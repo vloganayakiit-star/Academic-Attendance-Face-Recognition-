@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+plotly
+matplotlib
+seaborn
+altair
+scikit-learn
+tensorflow
+torch
+sqlalchemy
+psycopg2-binary
+pymongo
