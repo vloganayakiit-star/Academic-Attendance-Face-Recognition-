@@ -11,3 +11,5 @@ torch
 sqlalchemy
 psycopg2-binary
 pymongo
+streamlit
+matplotlib
